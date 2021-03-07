@@ -6,7 +6,7 @@ let etapas = [
             {
                 numero: '10101',
                 nome: 'Daniel Alves',
-                partido: 'PGC',
+                partido: 'PGC(Partido Good Crazy)',
                 fotos:[
                     { url: 'danielalves.png', legenda: 'Vereador'}
                 ]
@@ -14,7 +14,7 @@ let etapas = [
             {
                 numero: '15158',
                 nome: 'Hernanes Profeta',
-                partido: 'PP',
+                partido: 'PP(Partido do Profeta)',
                 fotos:[
                     { url: 'hernanes.png', legenda: 'Vereador'}
                 ]
@@ -27,18 +27,18 @@ let etapas = [
         candidatos: [
             {
                 numero: '30',
-                nome: 'Brenner',
+                nome: 'Pablo',
                 partido: 'PGOL',
                 vice: 'Luciano',
                 fotos: [
-                    { url: 'brenner.png', legenda: 'Prefeito' },
+                    { url: 'pablo.png', legenda: 'Prefeito' },
                     { url: 'luciano.png', legenda: 'Vice-Prefeito', small: true }
                 ]
             },
             {
                 numero: '21',
                 nome: 'Reinaldo',
-                partido: 'PPC',
+                partido: 'PPC(Partido dos Pé Canhoto)',
                 vice: 'Gabriel Sara',
                 fotos: [
                     { url: 'reinaldo.png', legenda: 'Prefeito' },
